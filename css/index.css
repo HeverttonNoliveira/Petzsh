@@ -1,0 +1,25 @@
+
+
+.carousel-inner,img{
+    box-shadow: 100px black;
+    border-radius: 50px;
+}
+
+main{
+    margin: 70px;
+}
+
+.prt-card{
+    border-radius: 30px;
+    display: flex;
+    padding: 16px;
+}
+
+.prt-recomendados{
+    color: #14213D;
+}
+
+
+h4{
+    color: #14213D; 
+}
