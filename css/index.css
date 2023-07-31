@@ -1,12 +1,16 @@
 
 
+
 .carousel-inner,img{
     box-shadow: 100px black;
     border-radius: 50px;
 }
 
 main{
-    margin: 70px;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 1%;
+    background-color: ghostwhite;
 }
 
 .prt-card{
@@ -19,6 +23,17 @@ main{
     color: #14213D;
 }
 
+.card{
+    border-radius: 10px;
+}
+
+.card :hover{
+    background-color: azure;
+}
+
+.carousel-control-prev-icon{
+    color: black;
+}
 
 h4{
     color: #14213D; 
